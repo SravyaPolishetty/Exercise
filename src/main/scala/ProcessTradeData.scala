@@ -6,7 +6,6 @@ Used - Spark Framework along with Scala
 
 ******************************/
 
-package com.excercise.code
 import org.apache.spark.sql._
 import org.apache.spark.sql.expressions._
 import org.apache.spark.sql.types._
